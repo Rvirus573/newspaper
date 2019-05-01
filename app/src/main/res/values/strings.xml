@@ -1,0 +1,586 @@
+<resources>
+    <string name="app_name">All Newspaper BD</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading........</string>
+
+    <string-array name="localArray">
+
+        <item>Please Select</item>
+        <item>Comilla</item>
+        <item>Sylhet</item>
+        <item>Rajshai</item>
+        <item>Khulna</item>
+        <item>Barishal</item>
+
+
+    </string-array>
+
+    <string-array name="bangla_news_name">
+        <item>Prothom Alo</item>
+        <item>KalerKantho</item>
+        <item>Jugantor</item>
+        <item>BD Protidin</item>
+        <item>Ittefak</item>
+        <item>Inqilab</item>
+        <item>Manabzamin</item>
+        <item>Nayadiganta</item>
+        <item>Samakal</item>
+        <item>Amar Desh</item>
+        <item>Jai jai Din</item>
+        <item>Janakantha</item>
+        <item>Bhorerkagoj</item>
+        <item>Bhorer Dak</item>
+        <item>Din kal</item>
+        <item>Sangram</item>
+        <item>Gonokantho</item>
+        <item>Manobkantha</item>
+        <item>Amader Somoy</item>
+        <item>Ajkalerkhobor</item>
+        <item>Bartoman</item>
+        <item>BD Khobor</item>
+        <item>alokitobangladesh</item>
+        <item>sorejomin</item>
+        <item>protidinersangbad</item>
+        <item>Bonik Barta</item>
+        <item>BD Journal</item>
+        <item>Inqilab</item>
+    </string-array>
+
+    <array name="bangla_news_logo">
+        <item>@drawable/prothomalo</item>
+        <item>@drawable/kalerkantho_logo</item>
+        <item>@drawable/jugantor_logo</item>
+        <item>@drawable/bangladeshprotidin_logo</item>
+        <item>@drawable/ittefak</item>
+        <item>@drawable/dailyinqilab</item>
+        <item>@drawable/mzamin</item>
+        <item>@drawable/dailynayadiganta</item>
+        <item>@drawable/samakal</item>
+        <item>@drawable/amar_desh</item>
+        <item>@drawable/jaijaidinbd</item>
+        <item>@drawable/janakantha</item>
+        <item>@drawable/bhorer_kagoj_logo</item>
+        <item>@drawable/bhorer_dak</item>
+        <item>@drawable/dailydinkal</item>
+        <item>@drawable/dailysangram</item>
+        <item>@drawable/gonokantho</item>
+        <item>@drawable/manobkantha</item>
+        <item>@drawable/dainikamadershomoy</item>
+        <item>@drawable/ajkalerkhobor</item>
+        <item>@drawable/dailybartoman</item>
+        <item>@drawable/bangladesherkhabor</item>
+        <item>@drawable/alokitobangladesh</item>
+        <item>@drawable/sorejominbarta</item>
+        <item>@drawable/protidinersangbad</item>
+        <item>@drawable/bonikbarta</item>
+        <item>@drawable/bd_journal</item>
+    </array>
+
+    <string-array name="bangla_news_link">
+        <item>https://www.prothomalo.com/</item>
+        <item>https://www.kalerkantho.com/</item>
+        <item>https://www.jugantor.com/</item>
+        <item>https://www.bd-pratidin.com/</item>
+        <item>https://www.ittefaq.com.bd/</item>
+        <item>https://www.dailyinqilab.com/</item>
+        <item>https://www.mzamin.com/</item>
+        <item>http://www.dailynayadiganta.com/</item>
+        <item>https://samakal.com/</item>
+        <item>https://amar-desh24.com/bangla/</item>
+        <item>https://www.jaijaidinbd.com/</item>
+        <item>https://www.dailyjanakantha.com/</item>
+        <item>https://www.bhorerkagoj.com/</item>
+        <item>https://bhorer-dak.com/</item>
+        <item>http://www.dailydinkal.net</item>
+        <item>https://www.dailysangram.com/</item>
+        <item>https://www.gonokantho.com/</item>
+        <item>https://www.manobkantha.com/</item>
+        <item>https://dainikamadershomoy.com/</item>
+        <item>https://www.ajkalerkhobor.com/</item>
+        <item>https://www.dailybartoman.com/</item>
+        <item>https://www.bangladesherkhabor.net/</item>
+        <item>https://www.alokitobangladesh.com/</item>
+        <item>https://sorejominbarta.com/</item>
+        <item>https://www.protidinersangbad.com/</item>
+        <item>https://bonikbarta.net/bangla/</item>
+        <item>https://www.bd-journal.com/</item>
+
+    </string-array>
+
+
+    <string-array name="online_news_name">
+
+        <item> onenewsbd </item>
+        <item> abnews24</item>
+        <item> abnews24bd </item>
+        <item> all-banglanews </item>
+        <item> alokitoprotidin </item>
+        <item> amadershomoy </item>
+        <item> arthosuchak </item>
+        <item> bangla.report </item>
+        <item> banglainsider </item>
+        <item> banglanews24</item>
+        <item> banglatimes </item>
+        <item> banglatribune </item>
+        <item> bangladeshonline24</item>
+        <item> bartabangla </item>
+        <item> bd24live </item>
+        <item> bdbarta24</item>
+        <item> bdnationalnews </item>
+        <item> bdtimes365</item>
+        <item> bdtype </item>
+        <item> breakingnews </item>
+        <item> bssnews </item>
+        <item> countrynews24</item>
+        <item> daily-bangladesh </item>
+        <item> dailyvoreralo </item>
+        <item> dhakanews24</item>
+        <item> dmpnews </item>
+        <item>fns24</item>
+        <item> fastnewsbd </item>
+        <item> gonews24</item>
+        <item> hawker </item>
+        <item> jagonews24</item>
+        <item> joruribarta </item>
+        <item> justnewsbd </item>
+        <item> lakhokantho </item>
+        <item> livepress24</item>
+        <item> natunbarta </item>
+        <item> natunsomoy </item>
+        <item> bangla.thereport24.</item>
+        <item> newsbangladesh </item>
+        <item> nirapadnews </item>
+        <item> notunkhobor </item>
+        <item> odhikar </item>
+        <item> poriborton </item>
+        <item> primenewsbd </item>
+        <item> priyo </item>
+        <item> risingbd </item>
+        <item> sahos24</item>
+        <item> samakalnews24</item>
+        <item> sarabangla </item>
+        <item> shershanews24</item>
+        <item> somoyerkonthosor</item>
+
+    </string-array>
+
+    <string-array name="online_news_link">
+
+        <item>https://www.onenewsbd.com/</item>
+        <item>https://www.abnews24.com/</item>
+        <item>https://www.abnews24bd.com/</item>
+        <item>https://all-banglanews.com/</item>
+        <item>https://www.alokitoprotidin.com/</item>
+        <item> https://www.amadershomoy.com/</item>
+        <item>https://www.arthosuchak.com/</item>
+        <item>https://www.bn.bangla.report/</item>
+        <item>https://www.banglainsider.com/</item>
+        <item> https://www.banglanews24.com/</item>
+        <item> https://www.banglatimes.com/bn/</item>
+        <item> https://www.banglatribune.com/</item>
+        <item> https://www.bangladeshonline24.com/</item>
+        <item> https://bartabangla.com/</item>
+        <item> https://www.bd24live.com/bangla/</item>
+        <item> https://bdbarta24.net/</item>
+        <item> https://www.bdnationalnews.com/</item>
+        <item>https://www.bdtimes365.com/</item>
+        <item> https://bdtype.com/</item>
+        <item>https://www.breakingnews.com.bd/</item>
+        <item> https://www.bssnews.net/bangla/</item>
+        <item> https://www.countrynews24.com/</item>
+        <item>https://www.daily-bangladesh.com/</item>
+        <item> https://www.dailyvoreralo.com/</item>
+        <item> https://dhakanews24.com/</item>
+        <item> https://dmpnews.org/</item>
+        <item>https://www.fns24.com/</item>
+        <item> https://www.fastnewsbd.com/</item>
+        <item> https://www.gonews24.com/</item>
+        <item>https://hawker.com.bd/</item>
+        <item>https://www.jagonews24.com/</item>
+        <item>https://www.joruribarta.com/</item>
+        <item>https://www.justnewsbd.com/</item>
+        <item>https://www.lakhokantho.com/</item>
+        <item>https://www.livepress24.com/</item>
+        <item>https://www.natunbarta.com/</item>
+        <item> https://www.natunsomoy.net/</item>
+        <item>http://bangla.thereport24.com/</item>
+        <item>http://www.newsbangladesh.com/</item>
+        <item> http://www.nirapadnews.com/</item>
+        <item> http://www.notunkhobor.com/</item>
+        <item> https://www.odhikar.news/</item>
+        <item>https://www.poriborton.com/</item>
+        <item> http://www.primenewsbd.com/</item>
+        <item> https://www.priyo.com/</item>
+        <item>http://www.risingbd.com/</item>
+        <item> https://www.sahos24.com/</item>
+        <item> https://samakalnews24.com/</item>
+        <item> https://sarabangla.net/</item>
+        <item> http://www.shershanews24.com/</item>
+        <item> http://www.somoyerkonthosor.com/</item>
+
+
+    </string-array>
+
+
+    <array name="online_news_logo">
+
+
+        <item>@drawable/onenewsbd</item>
+        <item>@drawable/abnews24</item>
+        <item>@drawable/abnews24bd</item>
+        <item>@drawable/all_banglanews</item>
+        <item>@drawable/alokitoprotidin</item>
+        <item>@drawable/amadershomoy</item>
+        <item>@drawable/arthosuchak</item>
+        <item>@drawable/bn_bangla_report</item>
+        <item>@drawable/banglainsider</item>
+        <item>@drawable/banglanews24</item>
+        <item>@drawable/banglatimes</item>
+        <item>@drawable/banglatribune</item>
+        <item>@drawable/bangladeshonline24</item>
+        <item>@drawable/bartabangla</item>
+        <item>@drawable/bd24live</item>
+        <item>@drawable/bdbarta24</item>
+        <item>@drawable/bdnationalnews</item>
+        <item>@drawable/bdtimes365</item>
+        <item>@drawable/bdtype</item>
+        <item>@drawable/breakingnews</item>
+        <item>@drawable/bssnews</item>
+        <item>@drawable/countrynews24</item>
+        <item>@drawable/dailybangladesh</item>
+        <item>@drawable/dailyvoreralo</item>
+        <item>@drawable/dhakanews24</item>
+        <item>@drawable/dmpnews</item>
+        <item>@drawable/fns24</item>
+        <item>@drawable/fastnewsbd</item>
+        <item>@drawable/gonews24</item>
+        <item>@drawable/hawker</item>
+        <item>@drawable/jagonews24</item>
+        <item>@drawable/joruribarta</item>
+        <item>@drawable/justnewsbd</item>
+        <item>@drawable/lakhokantho</item>
+        <item>@drawable/livepress24</item>
+        <item>@drawable/natunbarta</item>
+        <item>@drawable/natunsomoy</item>
+        <item>@drawable/thereport24</item>
+        <item>@drawable/newsbangladesh</item>
+        <item>@drawable/nirapadnews</item>
+        <item>@drawable/notunkhobor</item>
+        <item>@drawable/odhikar</item>
+        <item>@drawable/poriborton</item>
+        <item>@drawable/primenewsbd</item>
+        <item>@drawable/priyo_logo</item>
+        <item>@drawable/risingbd</item>
+        <item>@drawable/sahos24</item>
+        <item>@drawable/samakalnews24</item>
+        <item>@drawable/sarabangla</item>
+        <item>@drawable/shershanews24</item>
+        <item>@drawable/somoyerkonthosor</item>
+
+
+    </array>
+
+
+    <string-array name="english_news_name">
+
+        <item>Daily star</item>
+        <item>Daily sun</item>
+        <item>New age bd</item>
+        <item>bangladesh today</item>
+        <item>Asian age</item>
+        <item>Observer bd</item>
+        <item>Independent</item>
+        <item>New nation</item>
+        <item>News today</item>
+        <item>Bdnews24</item>
+        <item>Banglanews</item>
+        <item>BSS news</item>
+        <item>Dhaka tribune</item>
+        <item>Ntv news</item>
+        <item>Goodmorning</item>
+        <item>Bangladesh monitor</item>
+        <item>Energy bangla</item>
+        <item>Financial express</item>
+
+    </string-array>
+
+    <array name="english_news_logo">
+
+        <item>@drawable/thedailystar</item>
+        <item>@drawable/dailysun</item>
+        <item>@drawable/newagebd</item>
+        <item>@drawable/thebangladeshtoday</item>
+        <item>@drawable/dailyasianage</item>
+        <item>@drawable/observerbd</item>
+        <item>@drawable/theindependentbd</item>
+        <item>@drawable/thedailynewnation</item>
+        <item>@drawable/newstoday</item>
+        <item>@drawable/bdnews24_english</item>
+        <item>@drawable/banglanews_english</item>
+        <item>@drawable/bssnews</item>
+        <item>@drawable/dhakatribune</item>
+        <item>@drawable/ntvbd</item>
+        <item>@drawable/goodmorning</item>
+        <item>@drawable/bangladeshmonitor</item>
+        <item>@drawable/energybangla</item>
+        <item>@drawable/thefinancialexpress</item>
+
+
+    </array>
+
+    <string-array name="english_news_link">
+
+        <item>https://www.thedailystar.net/</item>
+        <item>https://www.daily-sun.com/</item>
+        <item>https://www.newagebd.net/</item>
+        <item>https://thebangladeshtoday.com/</item>
+        <item>https://www.dailyasianage.com/</item>
+        <item>https://www.observerbd.com/</item>
+        <item>https://www.theindependentbd.com/</item>
+        <item>https://www.thedailynewnation.com/</item>
+        <item>https://www.newstoday.com.bd/</item>
+        <item>https://bdnews24.com/</item>
+        <item>https://www.banglanews24.com/english</item>
+        <item>https://www.bssnews.net/</item>
+        <item>https://www.dhakatribune.com/</item>
+        <item>https://en.ntvbd.com/</item>
+        <item>https://www.thegoodmorning.net/</item>
+        <item>https://bangladeshmonitor.com.bd/</item>
+        <item>https://energybangla.com/</item>
+        <item>https://thefinancialexpress.com.bd/</item>
+
+
+    </string-array>
+
+
+    <string-array name="local_comilla_name">
+        <item>Amaderbrahmanbaria</item>
+        <item>Amadercomillaa</item>
+        <item>Chalomannoakhali</item>
+        <item>Chandpur-kantho</item>
+        <item>Comillaweb</item>
+        <item>Cumillarbarta</item>
+        <item>Comillarkagoj</item>
+
+
+    </string-array>
+
+    <array name="local_comilla_logo">
+
+        <item>@drawable/amaderbrahmanbaria</item>
+        <item>@drawable/amadercomillaa</item>
+        <item>@drawable/chalomannoakhali</item>
+        <item>@drawable/chandpur_kantho</item>
+        <item>@drawable/comillaweb_logo1</item>
+        <item>@drawable/cumillarbartalogo</item>
+        <item>@drawable/comillarkagoj</item>
+
+
+    </array>
+
+    <string-array name="local_comilla_link">
+        <item> https://www.amaderbrahmanbaria.org/bd/</item>
+        <item> https://amadercomillaa.com/beta/</item>
+        <item> https://www.chalomannoakhali.com/</item>
+        <item> https://www.chandpur-kantho.com/</item>
+        <item> https://www.comillaweb.com/</item>
+        <item> https://comillarbarta.com/</item>
+        <item> https://www.comillarkagoj.com/</item>
+
+    </string-array>
+
+    <string-array name="local_sylhet_name">
+        <item>ajkalersylhet</item>
+        <item>amadersylhet</item>
+        <item>domainmarket</item>
+        <item>beanibazarnews24</item>
+        <item>dailykhowai</item>
+        <item>dailysylhet</item>
+        <item>kazirbazar</item>
+        <item>kulaurasongbad</item>
+        <item>protidinerbani</item>
+        <item>sunamganjmirror</item>
+        <item>surmatimes</item>
+        <item>sylhetexpress</item>
+
+
+    </string-array>
+
+    <array name="local_sylhet_logo">
+        <item>@drawable/ajkalersylhet</item>
+        <item>@drawable/amadersylhet</item>
+        <item>@drawable/domainmarket</item>
+        <item>@drawable/beanibazarnews24</item>
+        <item>@drawable/dailykhowai</item>
+        <item>@drawable/dailysylhet</item>
+        <item>@drawable/daily_kazirbazar</item>
+        <item>@drawable/kulaurasongbad</item>
+        <item>@drawable/dailyprotidinerbani</item>
+        <item>@drawable/sunamganjmirror</item>
+        <item>@drawable/surmatimes</item>
+        <item>@drawable/sylhetexpress</item>
+
+    </array>
+
+    <string-array name="local_sylhet_link">
+        <item> https://www.ajkalersylhet.com/</item>
+        <item> https://www.amadersylhet.com/</item>
+        <item> https://www.domainmarket.com/buynow/banglardak.com</item>
+        <item> https://beanibazarnews24.com/</item>
+        <item> https://www.dailykhowai.com/</item>
+        <item> https://dailysylhet.com/</item>
+        <item> https://kazirbazar.com/</item>
+        <item> https://kulaurasongbad.com/</item>
+        <item> https://www.dailyprotidinerbani.com/</item>
+        <item> https://sunamganjmirror.com/</item>
+        <item> https://www.surmatimes.com/</item>
+        <item> https://www.sylhetexpress.com/</item>
+
+
+    </string-array>
+
+    <string-array name="local_rajshahi_name">
+        <item>bograsangbad</item>
+        <item>chapainawabganjnews</item>
+        <item>karatoa</item>
+        <item>padmanews24</item>
+        <item>sonalisangbad</item>
+        <item>pabnabarta24</item>
+        <item>sangbadkonika</item>
+
+
+    </string-array>
+
+    <array name="local_rajshahi_logo">
+
+        <item>@drawable/bograsangbad</item>
+        <item>@drawable/chapainawabganjnews</item>
+        <item>@drawable/karatoa</item>
+        <item>@drawable/padmanews24</item>
+        <item>@drawable/sonalisangbadlogo</item>
+        <item>@drawable/pabnabarta24</item>
+        <item>@drawable/sangbadkonika</item>
+
+
+    </array>
+
+    <string-array name="local_rajshahi_link">
+        <item> https://www.bograsangbad.com/</item>
+        <item> https://www.chapainawabganjnews.com/</item>
+        <item> https://www.karatoa.com.bd/</item>
+        <item> https://padmanews24.com/</item>
+        <item> https://sonalisangbad.com/</item>
+        <item> https://pabnabarta24.com/</item>
+        <item> https://www.sangbadkonika.com/</item>
+
+    </string-array>
+
+    <string-array name="local_khulna_name">
+        <item>andolonerbazar</item>
+        <item>bagerhatnews</item>
+        <item>gramerkagoj</item>
+        <item>jessorenews24</item>
+        <item>patradoot</item>
+        <item>jhenaidahnews</item>
+        <item>kushtianews</item>
+        <item>kushtianews24</item>
+        <item>maguranews</item>
+
+    </string-array>
+
+    <array name="local_khulna_logo">
+
+        <item>@drawable/andolonerbazar</item>
+        <item>@drawable/bagerhatnews</item>
+        <item>@drawable/gramerkagoj</item>
+        <item>@drawable/jessorenews24</item>
+        <item>@drawable/patradoot</item>
+        <item>@drawable/jhenaidahnews</item>
+        <item>@drawable/kushtianews</item>
+        <item>@drawable/kushtianews24</item>
+        <item>@drawable/maguranews</item>
+
+
+    </array>
+
+    <string-array name="local_khulna_link">
+        <item> https://www.dailyandolonerbazar.com/</item>
+        <item> https://www.bagerhatnews.com/</item>
+        <item> https://www.gramerkagoj.com/</item>
+        <item> https://www.jessorenews24.com/</item>
+        <item> https://patradoot.net/</item>
+        <item> https://www.jhenaidahnews.com/</item>
+        <item> https://www.kushtianews.com/</item>
+        <item> https://www.kushtianews24.com/</item>
+        <item> https://www.maguranews.com/</item>
+
+
+    </string-array>
+
+    <string-array name="local_barisal_name">
+        <item>ajkerbarta</item>
+        <item>barisalnews</item>
+        <item>barisaltoday</item>
+        <item>gournadi</item>
+
+
+    </string-array>
+
+    <array name="local_barisal_logo">
+        <item>@drawable/ajker_barta</item>
+        <item>@drawable/barisalnews</item>
+        <item>@drawable/barisaltoday</item>
+        <item>@drawable/gournadi_logo</item>
+
+
+    </array>
+
+    <string-array name="local_barisal_link">
+
+        <item> https://ajkerbarta.com/</item>
+        <item> https://barisalnews.com/ </item>
+        <item> https://www.barisaltoday.com/</item>
+        <item> https://gournadi.com/</item>
+
+
+    </string-array>
+
+
+    <string-array name="international_name">
+        <item>zeenews</item>
+        <item>aajkaal</item>
+        <item>anandabazar</item>
+        <item>bartamanpatrika</item>
+        <item>kolkata24x7</item>
+
+    </string-array>
+
+    <array name="international_logo">
+        <item>@drawable/zeenews</item>
+        <item>@drawable/aajkaal_logo</item>
+        <item>@drawable/anandabazar</item>
+        <item>@drawable/bartamanpatrika</item>
+        <item>@drawable/kolkata24x7</item>
+
+    </array>
+
+    <string-array name="international_link">
+        <item> https://zeenews.india.com/bengali/</item>
+        <item> https://www.aajkaal.in/</item>
+        <item> https://www.anandabazar.com/</item>
+        <item> https://www.bartamanpatrika.com/</item>
+        <item> https://kolkata24x7.com/ </item>
+
+
+    </string-array>
+
+
+</resources>

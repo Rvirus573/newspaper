@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+    <item
+        android:id="@+id/backward_id"
+        android:orderInCategory="100"
+        android:title="back"
+
+        android:icon="@drawable/back_icon"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/forward_id"
+        android:orderInCategory="100"
+        android:title="forward"
+
+        android:icon="@drawable/forward_icon"
+        app:showAsAction="always"
+        />
+
+
+    <item
+        android:id="@+id/refreshtmenu_id"
+        android:orderInCategory="100"
+        android:title="Refresh"
+        android:icon="@drawable/refresh_icon"
+        app:showAsAction="always" />
+
+
+
+    <item
+        android:id="@+id/rateit_menu_id"
+        android:orderInCategory="100"
+        android:title="Rate this App"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/exitmenu_id"
+        android:orderInCategory="100"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>

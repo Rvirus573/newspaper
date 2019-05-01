@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/national_News_id"
+            android:icon="@drawable/newspaper"
+            android:title="National Newspaper Bangla" />
+        <item
+            android:id="@+id/english_news_id"
+            android:icon="@drawable/newspaper"
+            android:title="English NewsPaper" />
+        <item
+            android:id="@+id/online_news_id"
+            android:icon="@drawable/newspaper"
+            android:title="Online Newspaper" />
+        <item
+        android:id="@+id/local_news_id"
+        android:icon="@drawable/newspaper"
+        android:title="Local Newspaper" />
+        <item
+            android:id="@+id/international_news_id"
+            android:icon="@drawable/newspaper"
+            android:title="International Newspaper" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/rate_id"
+                android:icon="@drawable/ic_stars_black_24dp"
+                android:title="Rate it" />
+            <item
+                android:id="@+id/exit_id"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:iconTint="@color/colorAccent"
+                android:title="Exit" />
+        </menu>
+    </item>
+
+</menu>
